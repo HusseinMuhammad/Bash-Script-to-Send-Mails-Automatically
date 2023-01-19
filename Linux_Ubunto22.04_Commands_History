@@ -1,0 +1,523 @@
+  1  man sudo_root
+    2  sudo su
+    3  cd
+    4  cd ..
+    5  list
+    6  cd ~
+    7  touch Hussein
+    8  \cd home 
+    9  mkdir Hussein
+   10  list
+   11  mkdir ITI
+   12  touch test
+   13  ls
+   14  pwd
+   15  cd .. 
+   16  cd ~
+   17  cd ..
+   18  clear
+   19  asdas
+   20  clear
+   21  asdasd asd
+   22  asdasd
+   23  clear
+   24  asdasdasdasdasdasdasdasdasdasd
+   25  nautilus
+   26  clear
+   27  nautilus
+   28  clear
+   29  nautilus
+   30  cd /bin
+   31  ls
+   32  ls | grep ls
+   33  cat ls
+   34  ls
+   35  sudo apt install gcc g++ mingw-w64
+   36  cat ls 
+   37  pwd
+   38  /bin
+   39  cd /bin
+   40  gedit
+   41  gedit ls
+   42  ca~
+   43  ca ~
+   44  cd ~
+   45  cd  Desktop/
+   46  touch Test
+   47  mkdir Test
+   48  mkdir G4
+   49  cd Desktop/
+   50  cd..
+   51  cd ..
+   52  cd ~
+   53  cd Desktop/
+   54  cd/
+   55  cd /
+   56  cd etc/
+   57  ls
+   58  cd ~/Desktop/
+   59  cd /sbin/
+   60  ifconfig
+   61  ls
+   62  cd ~
+   63  ifconfig
+   64  sudo apt install
+   65  ifconfig
+   66  sudo ifconfig
+   67  ifconfig
+   68  cd /etc/
+   69  ifconfig
+   70  cd ~
+   71  sudo apt install ifconfig
+   72  ifconfig
+   73  sudo apt install net-tools
+   74  ifconfig
+   75  /usr/include
+   76  ls
+   77  sudo apt update
+   78  apt list --upgradable
+   79  apt list --upgrade
+   80  sudo apt list --upgradable
+   81  sudo apt list --upgrade
+   82  sudo apt list --upgrad
+   83  sudo apt list --upgaded
+   84  sudo apt list --upgrade
+   85  sudo apt list --upgradable
+   86  sudo apt install build-essential
+   87  sudo apt upgrade
+   88  cd /usr/include
+   89  cd ..
+   90  ls
+   91  cd /include
+   92  cd /include 
+   93  cd include/
+   94  ls
+   95  cd ..
+   96  lib | gedit lib
+   97  cd lib
+   98  ls
+   99  clear
+  100  cd  ..
+  101  cd ..
+  102  cd var/
+  103  ls
+  104  cd tmp/
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd dev/
+  109  ls
+  110  cd input/
+  111  ls
+  112  cd /bin/
+  113  ls
+  114  cd ~/Desktop/
+  115  ls
+  116  mkdir emb
+  117  touch test.py
+  118  gedit test.py 
+  119  python test.py 
+  120  python3 test.py 
+  121  gedit test.py 
+  122  python3 test.py 
+  123  ls
+  124  gedit test.py 
+  125  gedit te.c
+  126  gcc test.c -o out 
+  127  gcc te.c -o out
+  128  ./out
+  129  cd te.c
+  130  gedit te.c
+  131  gcc te.c -o out 
+  132  ./out
+  133  gcc te.c -o out.exe 
+  134  out.exe
+  135  ./out.exe 
+  136  sudo apt-get install gcc-avr avr-libc binutils-avr avrdude 
+  137  passwd
+  138  npm install -g tldr
+  139  sudo su 
+  140  man cd 
+  141  man ls
+  142  man ls 1 intro
+  143  man LS 
+  144  man -f ls
+  145  man -f pwd
+  146  man -f password
+  147  man -f passwd
+  148  sudo su 
+  149  clear
+  150  man -w ls 
+  151  ls 
+  152  gedit ls.1.gz
+  153  cat ls.1.gz
+  154  cd man1
+  155  cd ..
+  156  cd ./man1
+  157  cd ./usr/share/man/man1/ls.1.gz
+  158  clear
+  159  man -w ls 
+  160  cd /usr/share/man/man1
+  161  cat ls.1.gz
+  162  gedit ls.1.gz
+  163  clear
+  164  man man 
+  165  help
+  166  clear
+  167  top
+  168  clear
+  169  sudo apt install build-essential
+  170  cd /dev/hd
+  171  pwd
+  172  cd ..
+  173  pwd
+  174  cd ~
+  175  pwd
+  176  clear
+  177  womami
+  178  whoami
+  179  hostname
+  180  date
+  181  uptime
+  182  lsusb
+  183  lspci
+  184  lscpu
+  185  man -k gpu
+  186  man amdgpu
+  187  clear
+  188  lsmod
+  189  cd ./Desktop
+  190  touch commands.txt
+  191  cat commands.tt
+  192  cat commands.txt
+  193  gedit commands.txt
+  194  clear
+  195  printen
+  196  env
+  197  clear
+  198  apt get install terminator
+  199  apt-get install terminator
+  200  vim
+  201  sudo apt install vim
+  202  vim 
+  203  vim
+  204  vim commands.txt
+  205  uname -r 
+  206  uname -r
+  207  uname -a
+  208  nano Test
+  209  cat Test
+  210  cat Test&
+  211  gedcat -n Test
+  212  gedit -n Test
+  213  cat -n Test
+  214  cat -s Test
+  215  cat -E Test
+  216  grep pan Test
+  217  grep a Test
+  218  grep Pan
+  219  grep Pan Tet
+  220  grep Pan Test
+  221  grep -n a Test
+  222  grep -v Pan Test
+  223  grep -c a Test
+  224  ping google.com
+  225  clear
+  226  cd~
+  227  gedit passwd
+  228  exit
+  229  cut -d= -f1 Test
+  230  cut -d: -f1 Test
+  231  cd ./Desktop
+  232  cut -d= -f1 Test
+  233  mkdir LAB3
+  234  cd LAB/
+  235  cd LAB3/
+  236  mkdir F1 F2
+  237  touch file1.txt
+  238  tree
+  239  sudo su 
+  240  tree
+  241  mv F2 F1
+  242  tree
+  243  cp -r F2 F1
+  244  cp -r F2F1
+  245  cp --help
+  246  cp -R F2 F1
+  247  cp -r F1 F2
+  248  tree
+  249  ../
+  250  /..
+  251  cd ../
+  252  cd root 
+  253  cd ~
+  254  cd /
+  255  cd ! 
+  256  cd ~ 
+  257  cd LAB3
+  258  tree
+  259  mv F2 F1
+  260  tree
+  261  mkdir -p F10/F20/F30
+  262  tree
+  263  mkdir -p F77 / F88 F99
+  264  tree
+  265  rm -tv F77
+  266  rm -rv F77
+  267  tree
+  268  rm -rv F1
+  269  tree
+  270  rm -rv F10
+  271  tree
+  272  vim f1
+  273  tail x.txt 
+  274  tail f1.txt
+  275  tail f1.txt 
+  276  gedit f1.txt
+  277  vim f1.txt
+  278  tail f1.txxt
+  279  tail f1.txt
+  280  head f1.txt
+  281  more f1.txt 
+  282  less -7 f1.txt
+  283  more 
+  284  more -5 f1.txt
+  285  head -n 3 f1.txt 
+  286  tail -5 f1.txt
+  287  head -10 f1.txt
+  288  clear
+  289  man head 
+  290  ls -li
+  291  cd LAB3/
+  292  ls
+  293  rm *
+  294  rm*
+  295  ls
+  296  rm -rv F88
+  297  rm -rv F99
+  298  touch input.txt
+  299  vim input.txt
+  300  touch Hussein_hardlink.txt
+  301  touch Mnasour_src.txt
+  302  gedit Mnasour_src.txt 
+  303  ln Mansour_src.txt Hussein_hardlink.txt
+  304  rm Hussein_hardlink.txt
+  305  ln Mansour_src.txt Hussein_hardlink.txt
+  306  ls
+  307  ln Mnasour_src.txt
+  308  rm Mnasour_src.txt
+  309  touch Mansour_src.txt
+  310  ln Mansour_src.txt Hussein_hardlink.txt
+  311  ls-li
+  312  ls - li
+  313  ls-li
+  314  ls - li
+  315  ls - li 
+  316  gedit Mansour_src.txt
+  317  cat Hussein_hardlink.txt
+  318  ls-li
+  319  ls - li
+  320  ls-li
+  321  ls-la
+  322  ls-li
+  323  ls -li
+  324  rm Mansour_sr.txt
+  325  rm Mansour_src.txt
+  326  gedit Hussein_hardlink.txt
+  327  ls -li
+  328  rm Hussein_hardlink.txt
+  329  touch Mansour_soft.txt
+  330  gedit Mansour_soft.txt
+  331  ln -s Mansour_soft.txt Hussein_shdw.txt
+  332  ls -li
+  333  gedit Hussein_shdw.txt
+  334  gedit Mansour_soft.txt
+  335  rm Mansour_soft.txt
+  336  gedit Hussein_shdw.txt
+  337  ls
+  338  gedit Hussein_shdw.txt
+  339  ls -li
+  340  ls-- help
+  341  ls --help
+  342  clear
+  343  rm Hussein_shdw.txt
+  344  rm Mansoura_soft.txt
+  345  tm Mansour_soft.txt
+  346  rm Mansour_soft.txt
+  347  ls
+  348  touch f1
+  349  ls
+  350  ls -li
+  351  ls -l
+  352  chmod 000
+  353  chmod 000 f1.txt
+  354  chmod 000 f1
+  355  ls -l
+  356  chmod u- -rw
+  357  chmod u-rw
+  358  chmod u-rw f
+  359  chmod u-rw f1
+  360  ls -l
+  361  chmod u-rw f1
+  362  clear
+  363  chmod uog-rwx f1
+  364  ls -l
+  365  chmod uog-rwx input.txt
+  366  ls -l
+  367  chmod uog+rwx input.txt
+  368  ls -l
+  369  chmod 777 input.txt
+  370  ls -l
+  371  chmod 707 input.txt
+  372  ls -l
+  373  sudo adduser phantom
+  374  su phantom
+  375  phantom95
+  376  su phantom
+  377  sudo deluser phantom
+  378  sudo rm -rf phantom
+  379  cd ~
+  380  ls
+  381  cd /home
+  382  ls
+  383  sudo rm -rf phantom
+  384  ls
+  385  su phantom
+  386  sudo usermod -aG sudo phantom
+  387  groups
+  388  sudo usermod -aG sudo phantom
+  389  su phantom
+  390  groups
+  391  sudo virtuoso -aG sudo phantom
+  392  su phantom
+  393  rm -r/
+  394  rm -r /
+  395  rm -r / 2>errorfile
+  396  ls
+  397  gedt errorfile
+  398  cat errorfile
+  399  gedit errorfile
+  400  rm -r / 1>errorfile
+  401  cat /dev/null
+  402  ls
+  403  grep -r power/sys/
+  404  grep -r power/sys/ >1
+  405  grep -r power/sys/ 1>
+  406  grep -r power /sys/ 1>
+  407  sudo grep -r power /sys/ 1> 
+  408  sudo grep -r power /sys/ 1>
+  409  cd Desktop/
+  410  sudo grep -r power /sys/ 1>
+  411  sudo grep -r power/sys/ 1>
+  412  clear
+  413  grep -r power/sys/
+  414  grep -r power/sys/ 1>
+  415  cd ~
+  416  sudo grep -r power/sys/ 1> errorfile.txt
+  417  sudo grep -r power /sys/ 1> errorfile
+  418  gedit errorfile.txt
+  419  gedit errorfile
+  420  clear
+  421  cd Lab3/
+  422  cd /LAB3/
+  423  cd ../LAB3/
+  424  cd ../LAB3
+  425  touch f1 f3 f5 f7 f9
+  426  ls
+  427  rm -r *f
+  428  ls
+  429  rm -r *f
+  430  rm -r f*
+  431  ls
+  432  touch F1 A B C D E F G H I
+  433  ls
+  434  rm [A-Z]
+  435  ls
+  436  rm [a-z]
+  437  sudo apt install mailutils
+  438  ls /bin/ |grep ash
+  439  var1=status
+  440  echo $var1
+  441  ech var1
+  442  echo var1
+  443  ech $pwd
+  444  echo $pwd
+  445  echo $PWD
+  446  echo $SHELL
+  447  env
+  448  echo $shell
+  449  echo $SHELL
+  450  gedit .bashrc
+  451  pwd
+  452  cd /Desktop
+  453  cd Desktop/
+  454  gedit lab1
+  455  gedit lab1 &
+  456  nano
+  457  ./lab1
+  458  chmod 777
+  459  chmod 777 lab1
+  460  ./lab1
+  461  exit 
+  462  echo "hello Here is Hussein"
+  463  ./lab1
+  464  cd /Desktp
+  465  cd /Desktop
+  466  cd Desktop
+  467  ./lab1
+  468  ./n
+  469  ./lab1
+  470  clear
+  471  ./lab1
+  472  clear
+  473  ./lab1
+  474  clear
+  475  ./lab1
+  476  export MYVAR=100
+  477  sudo apt -install
+  478  sudo apt install mailutils
+  479  mail -s "casual mail" the_hessen@yahoo.com
+  480  cd Desktop
+  481  ./lab1
+  482  [A
+  483  ./lab1
+  484  ./lab1 10 20 30
+  485  ./lab1
+  486  clear
+  487  clear1
+  488  clear
+  489  ./lab1
+  490  clear
+  491  ./lab1
+  492  sudo apt-get install ssmpt
+  493  sudo apt-get install ssmtp
+  494  who am i
+  495  whoami
+  496  whoishe
+  497  whoisit
+  498  whoami
+  499  cd ./Desktop
+  500  touch task.exe
+  501  chmod 777 task.exe
+  502  touch task
+  503  chmod 777 task
+  504  gedit task
+  505  ./ task
+  506  cd ./Desktop
+  507  ./ task
+  508  ./task
+  509  cd ./Desktop
+  510  ./task
+  511  sudo apt-get install mailutils
+  512  mail --version
+  513  cd Desktop/
+  514  ./task
+  515  whoami
+  516  cd home 
+  517  ls 
+  518  cd Desktop/
+  519  ls
+  520  touch Mailing_Auto
+  521  cat Mail_auto
+  522  gedit Mailing_Auto 
+  523  history
